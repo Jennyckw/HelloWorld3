@@ -1,3 +1,5 @@
 third
 test git diff
+dev A
 dev B
+>>>>>>> ca23a11ca7268c9e2a91b213dac7231699071b11
